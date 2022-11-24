@@ -13,7 +13,8 @@ Abaixo seguem as disciplinas, bem como dados sobre as mesmas:
 
 ## Programação Orientada a Objetos
 
-Professores:
+Professores: Alessandro Valério
+
 Resumo:
 Diretório: https://github.com/ppcandrade/pucrs-pos-desenvolvimento-full-stack/programacao-orientada-a-objetos
 
